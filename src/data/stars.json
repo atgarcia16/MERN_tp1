@@ -1,0 +1,54 @@
+[
+    {
+      "id": 1,
+      "name": "Sirius",
+      "type": "Estrella binaria, Secuencia Principal (tipo A1V)",
+      "distancia": "8.6 años luz",
+      "mass": "2.02 masas solares",
+      "radius": "1.711 radios solares",
+      "temperature": "9,940 K",
+      "luminosity": "25.4 luminosidades solares",
+      "age": "200-300 millones de años",
+      "composition": {
+        "hydrogen": "71%",
+        "helium": "27%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Sirius es una de las estrellas más brillantes en el cielo nocturno y es una estrella binaria compuesta por Sirius A y Sirius B. Es una estrella blanca de la secuencia principal que ha consumido la mayor parte de su hidrógeno y se encuentra en una etapa avanzada de su vida."
+    },
+    {
+      "id": 2,
+      "name": "Aldebarán",
+      "type": "Estrella gigante roja (tipo K5III)",
+      "distancia": "65 años luz",
+      "mass": "1.7 masas solares",
+      "radius": "44.2 radios solares",
+      "temperature": "3,900 K",
+      "luminosity": "425 luminosidades solares",
+      "age": "6-7 mil millones de años",
+      "composition": {
+        "hydrogen": "65%",
+        "helium": "34%",
+        "otros_elementos": "1%"
+      },
+      "stellar_history": "Aldebarán es una estrella gigante roja en la constelación de Tauro. Ha evolucionado fuera de la secuencia principal y se encuentra en una fase avanzada de su vida, expandiéndose a medida que agota su hidrógeno central."
+    },
+    {
+      "id": 3,
+      "name": "Vega",
+      "type": "Estrella principal de la secuencia A (tipo A0V)",
+      "distancia": "25 años luz",
+      "mass": "2.1 masas solares",
+      "radius": "2.362 radios solares",
+      "temperature": "9,275 K",
+      "luminosity": "40.1 luminosidades solares",
+      "age": "455-650 millones de años",
+      "composition": {
+        "hydrogen": "73%",
+        "helium": "25%",
+        "otros_elementos": "2%"
+      },
+      "stellar_history": "Vega es una estrella blanca de la secuencia principal en la constelación de Lira. Es una de las estrellas más brillantes del cielo nocturno y es conocida por su rápido movimiento de rotación."
+    }
+  ]
+
